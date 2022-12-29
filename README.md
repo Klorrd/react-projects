@@ -1,2 +1,2 @@
-# react-projects
-Random React projects for beginners 
+Random React projects for beginners. 
+Test project. 
